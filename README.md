@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">I'm Mirko a jr. front-end developer, currently learning and working with React and Next.js from Italy. Always open to discuss and learn new things. 🇮🇹</p>
+<p align="left">
+  I'm Mirko a jr. front-end developer, currently learning and working with React and Next.js from Italy. 
+  <br>
+  Always open to discuss and learn new things.
+</p>
 
 ###
 
@@ -18,8 +22,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -29,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mirko-deglinnocenti/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/mirko-deglinnocenti/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
